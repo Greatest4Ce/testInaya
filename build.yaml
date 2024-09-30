@@ -1,0 +1,11 @@
+targets:
+  $default:
+    builders:
+      freezed:
+        generate_for:
+          - "lib/domain/entity/**/**.dart"
+          - "lib/domain/state/state_models/**/**.dart"
+          - "lib/**/**/data/respones/**.dart"
+          - "lib/**/**/domain/requests/**.dart"
+      
+            

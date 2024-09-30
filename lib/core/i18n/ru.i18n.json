@@ -1,0 +1,75 @@
+{
+    "houseTypeMap":{
+        "aFrame": "A-Frame",
+        "safari": "Сафари",
+        "recreationCenter": "База отдыха",
+        "barnhouse": "Барн хаусы",
+        "modulHouse": "Модульные дома",
+        "sphere": "Сферы",
+        "shale": "Шале",
+        "barrelHouse":"Дома бочки"
+    },
+    "facilitiesMap": {
+        "mangal": "Мангал",
+        "parking": "Паркинг",
+        "tv": "ТВ",
+        "conditioner": "Кондиционер",
+        "kitchen": "Кухня",
+        "wifi": "Wi-Fi",
+        "talkingHouse": "Беседка"
+    },
+    "funsMap": {
+        "lake": "Водоём",
+        "jakuzi": "Джакузи",
+        "billiard": "Бильярд",
+        "furako": "Фурако",
+        "pool": "Бассейн",
+        "supboard": "Sup board",
+        "horseSport": "Конные прогулки",
+        "bicycles": "Велосипеды"
+    },
+    "sleepPlaceMap": {
+        "queenBed": "Двуспальная кровать",
+        "sofa": "Диван",
+        "babyPlace": "Место для младенца"
+    },
+    "home": {
+        "search": "Поиск",
+        "all": "Все",
+        "km": "км",
+        "views": "просм",
+        "guests":"гостей",
+        "from": "от",
+        "ruble": "₽",
+        "onMap": "На карте"
+    },
+    "detail":{
+        "call": "Позвонить",
+        "message": "Написать",
+        "share": "Поделиться",
+        "more": "Подробнее",
+        "address(address, km)": "$address • $count км",
+        "from": "от",
+        "ruble": "₽",
+        "book": "Забронировать",
+        "sleepPlaces": "Спальные места"
+    },
+    "filters": {
+        "count(n)": "($n)",
+        "filters": "Фильтры",
+        "dates": "Даты поездки",
+        "nearest": "Ближайшие",
+        "priceRangeTitle": "Ценовой диапазон",
+        "priceRange": "$start - $end ",
+        "averagePriceForDay(price)": "Средняя цена за сутки $price",
+        "distance": "Отдаленность",
+        "km(km)":"$km км",
+        "houses": "Дома",
+        "placeCount": "Количество мест",
+        "placeForBaby": "Место для младенца",
+        "facilities": "Удобства",
+        "funs":"Развлечения",
+        "clear": "Очистить",
+        "showVariants(n)": "Показать ${n} вариантов"
+    }
+}
